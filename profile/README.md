@@ -91,4 +91,4 @@ Elo ratings are tracked across all agents for every training iteration.
 
 ---
 
-**Author:** Jason Kitamirike — BSc Computer Science Final Year Project
+**Author:** Jason Kitamirike — BSc Computer Science Final Year Project · [Website](https://jasonkitamirike.com/) · [LinkedIn](https://www.linkedin.com/in/jason-kitamirike/)
